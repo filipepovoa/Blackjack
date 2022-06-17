@@ -1,0 +1,34 @@
+t:\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+t:\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+t:\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+t:\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+t:\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+E:\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+E:\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+E:\Blackjack\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+E:\Blackjack\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+E:\Blackjack\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Blackjack\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+\\tsclient\F\Blackjack\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+\\tsclient\F\Blackjack\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+\\tsclient\F\Blackjack\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+\\tsclient\F\Blackjack\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+\\tsclient\F\Blackjack\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ECE 264\Blackjack\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+E:\ECE 264\Blackjack\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+E:\ECE 264\Blackjack\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\ECE 264\Blackjack\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+G:\ECE 264\Blackjack\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+G:\ECE 264\Blackjack\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+G:\ECE 264\Blackjack\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+G:\ECE 264\Blackjack\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Filipe\Desktop\MEU PENDRIVE\ECE 264\Blackjack\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Filipe\Desktop\MEU PENDRIVE\ECE 264\Blackjack\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Filipe\Desktop\MEU PENDRIVE\ECE 264\Blackjack\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Filipe\Desktop\MEU PENDRIVE\ECE 264\Blackjack\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Filipe\Desktop\MEU PENDRIVE\ECE 264\Blackjack\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\MEU PENDRIVE\ECE 264\Blackjack\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\MEU PENDRIVE\ECE 264\Blackjack\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\MEU PENDRIVE\ECE 264\Blackjack\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\MEU PENDRIVE\ECE 264\Blackjack\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\MEU PENDRIVE\ECE 264\Blackjack\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
